@@ -1,0 +1,19 @@
+{
+  "name": "metalsmith-sign",
+  "version": "1.0.1",
+  "description": "A Metalsmith plugin to sign content.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specififed\" && exit 1"
+  },
+  "keywords": [
+    "metalsmith",
+    "gpg",
+    "privacy"
+  ],
+  "author": "Cervent Labs",
+  "license": "MIT",
+  "dependencies": {
+    "openpgp": "^2.5.4"
+  }
+}
